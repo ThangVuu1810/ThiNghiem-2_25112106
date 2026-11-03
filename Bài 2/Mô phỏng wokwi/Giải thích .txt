@@ -1,0 +1,1 @@
+Chọn 500ms vì mức này loại bỏ triệt để hiện tượng dội phím cơ khí, giúp mạch đếm chính xác tuyệt đối số lần nhấn thực tế mà không bị đếm khống do nhiễu.
